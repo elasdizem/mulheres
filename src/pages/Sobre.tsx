@@ -30,7 +30,7 @@ const Sobre = () => {
           <div className="container mx-auto px-4 relative">
             <div className="max-w-4xl mx-auto text-center">
               <h1 className="font-display text-4xl md:text-5xl lg:text-6xl font-bold text-foreground mb-6">
-                Sobre a <span className="text-gradient">Galeria Viva de Vozes</span>
+                Sobre a <span className="text-gradient">Elas Dizem</span>
               </h1>
               <p className="text-xl font-medium text-foreground/80 mb-8 max-w-3xl mx-auto">
                 Projeto vinculado ao componente curricular optativo "História da Mulher e Relações de Gênero" da Universidade Federal do Recôncavo da Bahia (UFRB).
@@ -51,7 +51,7 @@ const Sobre = () => {
                   Nossa missão
                 </h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  Partimos da premissa de que a memória individual é uma ferramenta essencial para a compreensão da história coletiva. A Galeria Viva de Vozes foi concebida como um espaço de pesquisa e escuta sensível, onde relatos de vida são tratados como fontes primárias fundamentais para a análise das relações de gênero.
+                  Partimos da premissa de que a memória individual é uma ferramenta essencial para a compreensão da história coletiva. A Elas Dizem foi concebida como um espaço de pesquisa e escuta sensível, onde relatos de vida são tratados como fontes primárias fundamentais para a análise das relações de gênero.
                 </p>
                 <p className="text-muted-foreground leading-relaxed">
                   Seja através de registros audiovisuais ou sonoros, cada entrevista compõe um corpus documental que busca elucidar as tensões, resistências e a agência feminina na sociedade, convidando à reflexão hermenêutica sobre as experiências que conectam as mulheres através do tempo e do espaço.

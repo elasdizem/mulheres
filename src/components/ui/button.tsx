@@ -15,7 +15,7 @@ const buttonVariants = cva(
         secondary: "bg-secondary text-secondary-foreground hover:bg-secondary/80",
         ghost: "hover:bg-muted hover:text-foreground",
         link: "text-primary underline-offset-4 hover:underline",
-        // Custom variants for Galeria Viva
+        // Custom variants for Elas Dizem
         hero: "bg-gradient-accent text-primary-foreground font-semibold shadow-glow hover:shadow-soft hover:scale-105 rounded-full",
         accent: "bg-accent text-accent-foreground hover:bg-accent/90 shadow-soft",
         glass: "bg-background/60 backdrop-blur-md border border-border/50 hover:bg-background/80 text-foreground",

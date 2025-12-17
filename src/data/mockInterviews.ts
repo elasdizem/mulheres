@@ -4,6 +4,8 @@ import audioDaniela1 from '@/assets/audio-daniela-1.opus';
 import audioDaniela2 from '@/assets/audio-daniela-2.opus';
 import audioDaniela3 from '@/assets/audio-daniela-3.opus';
 import audioAnonima from '@/assets/audio-anonima.mp3';
+import rosildaThumb from '@/assets/rosilda_bastos.png';
+import donaTelmaThumb from '@/assets/dona_telma.png';
 
 
 export const mockInterviews: Interview[] = [
@@ -170,6 +172,7 @@ export const mockInterviews: Interview[] = [
     region: 'Nordeste',
     country: 'Brasil',
     videoUrl: 'https://www.youtube.com/embed/QjvsnnYtF1Q?si=xKszYsdbsYJmp1nZ',
+    thumbnailUrl: donaTelmaThumb,
     bio: 'Dona Telma é uma liderança comunitária que dedica sua vida à preservação das tradições locais.',
     chapters: [
       { id: 'c1', title: 'Introdução', startTime: 0, endTime: 60 },
@@ -196,6 +199,7 @@ export const mockInterviews: Interview[] = [
     region: 'Nordeste',
     country: 'Brasil',
     videoUrl: 'https://www.youtube.com/embed/rHaS48bX-ys?si=CQgOFU0YWJzEbjhj',
+    thumbnailUrl: rosildaThumb,
     bio: 'Rosilda Bastos compartilha sua trajetória de lutas e conquistas no mercado de trabalho e na vida.',
     chapters: [
       { id: 'c1', title: 'Início da Trajetória', startTime: 0, endTime: 180 },

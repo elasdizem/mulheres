@@ -25,7 +25,7 @@ export const Header = () => {
               <span className="text-primary-foreground font-display font-bold text-lg">G</span>
             </div>
             <span className="font-display text-xl font-semibold text-foreground hidden sm:block">
-              Galeria Viva
+              Elas Dizem
             </span>
           </Link>
 

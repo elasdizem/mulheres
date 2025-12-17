@@ -13,7 +13,7 @@ export const Footer = () => {
                 <span className="text-primary-foreground font-display font-bold text-lg">G</span>
               </div>
               <span className="font-display text-xl font-semibold text-foreground">
-                Galeria Viva de Vozes
+                Elas Dizem
               </span>
             </div>
             <p className="text-muted-foreground text-sm leading-relaxed max-w-sm">
@@ -67,7 +67,7 @@ export const Footer = () => {
         {/* Bottom */}
         <div className="mt-12 pt-8 border-t border-border flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-sm text-muted-foreground">
-            © 2024 Galeria Viva de Vozes. Todos os direitos reservados.
+            © 2024 Elas Dizem. Todos os direitos reservados.
           </p>
           <p className="text-sm text-muted-foreground flex items-center gap-1">
             Feito com <Heart className="w-4 h-4 text-primary fill-primary" /> para todas as mulheres
